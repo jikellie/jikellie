@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jikellie
 - 👀 I’m interested in all things data analysis and visualization
-- 🌱 I’m currently doing a masters in data analysis and learning python, r and tableau
+- 🌱 I’m currently doing a masters in data analysis and learning python, r and sql
 
 
 <!---
